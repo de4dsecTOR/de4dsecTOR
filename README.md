@@ -17,7 +17,7 @@ The following section highlights my skills and the corresponding projects I buil
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis & Detection |         <a href="https://google.com">Yara Rules</a>|
+| Malware Analysis & Detection |         <a href="https://github.com/de4dsecTOR/Yara-Rules">Yara Rules</a>|
 | Incident Response | <a href="https://google.com">Honeypot</a>|
 
 ### Penetration Testing
