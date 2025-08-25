@@ -11,16 +11,21 @@ Information and Technology graduate with a deep interest in cybersecurity, ethic
 My background in Information Technology has shaped my passion for cybersecurity, inspiring me to focus on defending against digital threats. I am eager to transition into this field as a SOC Tier 1 Analyst or Cybersecurity Threat Analyst, where I can combine my technical skills, analytical thinking, and dedication to protecting critical systems and data.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+The following section highlights my skills and the corresponding projects I built to demonstrate them in practice.
+
+### Defensive Security
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Analysis & Detection |         <a href="https://google.com">Yara Rules</a>|
+| Incident Response | <a href="https://google.com">Honeypot</a>|
+
+### Penetration Testing
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Scripting & Automation for Attacks | <a href="https://google.com">DuckyScripts</a>|
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -28,21 +33,31 @@ My background in Information Technology has shaped my passion for cybersecurity,
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />    
 </div>
 
-### Endpoint
+### Pentesting
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+     <img src="https://img.shields.io/badge/Aircrack-ng-008ECE?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
+     <img src="https://img.shields.io/badge/Kismet-2A2F36?style=for-the-badge&logo=kismet&logoColor=white" />
+     <img src="https://img.shields.io/badge/Wifite-0E4D92?style=for-the-badge&logo=wi-fi&logoColor=white" />
+     <img src="https://img.shields.io/badge/Gobuster-5E60CE?style=for-the-badge&logo=gobuster&logoColor=white" />
+     <img src="https://img.shields.io/badge/FFUF-4B9CE0?style=for-the-badge&logo=format-underline-unicode-font&logoColor=white" />
+     <img src="https://img.shields.io/badge/Burp%20Suite-FF4500?style=for-the-badge&logo=burpsuite&logoColor=white" />
+     <img src="https://img.shields.io/badge/Caida-0071C5?style=for-the-badge&logo=caida&logoColor=white" />
+     <img src="https://img.shields.io/badge/John%20The%20Ripper-46363D?style=for-the-badge&logo=probot&logoColor=white" />
+     <img src="https://img.shields.io/badge/Hashcat-1876D1?style=for-the-badge&logo=hashcat&logoColor=white" />
+     <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hydra&logoColor=white" />
+     <img src="https://img.shields.io/badge/Medusa-0066CC?style=for-the-badge&logo=medusa&logoColor=white" />
+
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 <!--## Certifications
@@ -56,5 +71,10 @@ My background in Information Technology has shaped my passion for cybersecurity,
 </div> -->
 
 ## Projects
+Defensive Security
 - Detection Lab
 - SOC Automation Project
+
+Penetration Testing
+- DuckyScripts
+
