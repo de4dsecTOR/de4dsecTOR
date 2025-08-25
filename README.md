@@ -24,11 +24,12 @@ The following section highlights my skills and the corresponding projects I buil
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Scripting & Automation for Attacks | <a href="https://google.com">DuckyScripts</a>|
+| Web Application Pentesting | <a href="https://google.com">SQLi_auth</a>|
 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Here are the tools that I have hands on experience:
 
 ### Network
 <div>
@@ -46,7 +47,7 @@ The following section highlights my skills and the corresponding projects I buil
      <img src="https://img.shields.io/badge/Gobuster-5E60CE?style=for-the-badge&logo=gobuster&logoColor=white" />
      <img src="https://img.shields.io/badge/FFUF-4B9CE0?style=for-the-badge&logo=format-underline-unicode-font&logoColor=white" />
      <img src="https://img.shields.io/badge/Burp%20Suite-FF4500?style=for-the-badge&logo=burpsuite&logoColor=white" />
-     <img src="https://img.shields.io/badge/Caida-0071C5?style=for-the-badge&logo=caida&logoColor=white" />
+     <img src="https://img.shields.io/badge/Caido-0F172A?style=for-the-badge&logo=caido&logoColor=white" />
      <img src="https://img.shields.io/badge/John%20The%20Ripper-46363D?style=for-the-badge&logo=probot&logoColor=white" />
      <img src="https://img.shields.io/badge/Hashcat-1876D1?style=for-the-badge&logo=hashcat&logoColor=white" />
      <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hydra&logoColor=white" />
@@ -69,12 +70,18 @@ The following section highlights my skills and the corresponding projects I buil
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div> -->
+## Operating Systems
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Parrot%20Security-15E0F7?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
+
 
 ## Projects
 Defensive Security
-- Detection Lab
-- SOC Automation Project
+- Yara Rules
+- Honeypot
 
 Penetration Testing
 - DuckyScripts
+- SQLi_auth
 
