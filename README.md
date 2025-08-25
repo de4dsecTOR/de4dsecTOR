@@ -23,7 +23,7 @@ The following section highlights my skills and the corresponding projects I buil
 ### Penetration Testing
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scripting & Automation for Attacks | <a href="https://google.com">DuckyScripts</a>|
+| Scripting & Automation for Attacks | <a href="https://google.com">BadBLE Scripts</a><a href="https://google.com">DuckyScripts</a>|
 | Web Application Pentesting | <a href="https://google.com">SQLi_auth</a>|
 
 
@@ -82,6 +82,7 @@ Defensive Security
 - Honeypot
 
 Penetration Testing
+- BadBLE Scripts
 - DuckyScripts
 - SQLi_auth
 
