@@ -79,7 +79,6 @@ Here are the tools that I have hands on experience:
 ## Projects
 Defensive Security
 - Yara Rules
-- Honeypot
 
 Penetration Testing
 - BadBLE Scripts
